@@ -42,3 +42,4 @@ The easiest way to deploy your Next.js app integrated with OpenLayers is to use 
 Check out our Next.js deployment documentation for more details.
 
 Checkout Preview of vercel App:
+https://open-layers-frontend.vercel.app/
